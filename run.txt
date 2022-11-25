@@ -1,10 +1,6 @@
 @echo off
 E:
-<<<<<<< HEAD:run.txt
-cd \²©Ê¿ 2021\²©Ê¿¿ÎÌâ ZXD
-=======
 cd \²©Ê¿ 2021\0 ÖÇÄÜ¼ÒÓÃ½¡¿µ¹ÜÀí»úÆ÷ÈË ZXD
->>>>>>> 85ecac3... 2022/11/24 å‘¨å›› 10:51:20.19:0 æ™ºèƒ½å®¶ç”¨å¥åº·ç®¡ç†æœºå™¨äºº ZXD/run.txt
 git add -A
 git commit -m "%date% %time%"
 git push -u origin master
